@@ -2,9 +2,13 @@
 "Automates the detection of unencrypted and unmasked cardholder data to support PCI DSS compliance with detailed Excel-based reporting and secure scanning capabilities."
 
 **Version**: 2.0  
+
 **Author**: Md Mahfuzur Rahman, CVA, CNSP, CPAv2 
+
 **Email**: mahfuz33r@gmail.com 
+
 **Website**: mahfuz33r.github.io (https://mahfuz33r.github.io)
+
 ![Card Data Discovery](/assets/Dashboard.png)
 
 ## Overview

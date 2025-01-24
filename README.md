@@ -5,6 +5,7 @@
 **Author**: Md Mahfuzur Rahman, CVA, CNSP, CPAv2 
 **Email**: mahfuzur@eic.com.bd  
 **Website**: mahfuz33r.github.io (https://mahfuz33r.github.io)
+![Card Data Discovery](/assets/Dashboard.png)
 
 ## Overview
 

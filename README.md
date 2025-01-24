@@ -3,7 +3,7 @@
 
 **Version**: 2.0  
 **Author**: Md Mahfuzur Rahman, CVA, CNSP, CPAv2 
-**Email**: mahfuzur@eic.com.bd  
+**Email**: mahfuz33r@gmail.com 
 **Website**: mahfuz33r.github.io (https://mahfuz33r.github.io)
 ![Card Data Discovery](/assets/Dashboard.png)
 
@@ -93,7 +93,7 @@ By using the **Card Data Discovery Tool**, organizations can efficiently scan th
 - **Unsupported Files**: Ensure scanned files are within supported formats (`.txt`, `.docx`, `.xlsx`, etc.).
 - **Missing Dependencies**: Contact support if you encounter dependency errors during execution.
 
-For additional support, feel free to contact me at **mahfuzur@eic.com.bd**.
+For additional support, feel free to contact me at **mahfuz33r@gmail.com **.
 
 ## License
 
@@ -108,7 +108,7 @@ Contributions, issues, and feature requests are welcome! Feel free to open a pul
 ## Contact
 
 For questions, feedback, or collaboration, please reach out via:
-- **Email**: mahfuzur@eic.com.bd
+- **Email**: mahfuz33r@gmail.com 
 - **Website**: [mahfuz33r.github.io](https://mahfuz33r.github.io)
 
 ---
